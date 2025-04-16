@@ -30,7 +30,7 @@ This repository documents my current cybersecurity investments, technical setup,
 
 | Focus Area              | Tool/Platform        | Status      |
 |-------------------------|----------------------|-------------|
-| Cyber Fundamentals      | TryHackMe             | In Progress |
+| Cyber Fundamentals      | TryHackMe & Ivy Tech  | In Progress |
 | Business & PM Skills    | Google Cert, CAPM     | Pending     |
 | Linux Environment Setup | POP!_OS / VirtualBox  | Planned     |
 | Threat Modeling Basics  | OWASP, MITRE ATT&CK   | Reviewing   |
