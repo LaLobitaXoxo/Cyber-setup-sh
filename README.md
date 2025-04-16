@@ -19,7 +19,7 @@ This repository documents my current cybersecurity investments, technical setup,
 
 ## 🔐 Current Security Tools
 
-- Google – Password manager
+- ... – Password manager
 - Authy – 2FA across devices
 - ProtonMail – Secure email
 - POP!_OS – Linux install planned for sandbox setup
