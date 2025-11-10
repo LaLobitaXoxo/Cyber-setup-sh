@@ -1,6 +1,6 @@
 # Cyber-setup-sh
 Tracking current investments, system upgrades and technical learning roadmap. 
-# Samantha H. – Cybersecurity Setup & Next Steps
+# Samantha O. – Cybersecurity Setup & Next Steps
 
 This repository documents my current cybersecurity investments, technical setup, and learning roadmap as I transition into the field. My goal is to build credible, consistent skills while documenting useful tools and reflections along the way.
 
@@ -30,16 +30,16 @@ This repository documents my current cybersecurity investments, technical setup,
 
 | Focus Area              | Tool/Platform        | Status      |
 |-------------------------|----------------------|-------------|
-| Cyber Fundamentals      | TryHackMe & Ivy Tech  | In Progress |
-| Business & PM Skills    | Google Cert, CAPM     | Pending     |
-| Linux Environment Setup | POP!_OS / VirtualBox  | Planned     |
+| Cyber Fundamentals      | TryHackMe & Comptia Sec+| In Progress |
+| Business Degree.        | Google Cert, CAPM     | In Progress |
+| Linux Environment Setup | POP!_OS / VirtualBox  | Completed   |
 | Threat Modeling Basics  | OWASP, MITRE ATT&CK   | Reviewing   |
 
 ---
 
 ## 📌 Next Steps
 
-- [ ] Install POP!_OS on secondary partition or VM
+- [X] Install POP!_OS on secondary partition or VM
 - [ ] Complete TryHackMe “Pre-Security” and “Cyber Defense” paths
 - [ ] Start GitHub documentation for each TryHackMe lab
 - [ ] Finalize personal archive format for tech reflections
